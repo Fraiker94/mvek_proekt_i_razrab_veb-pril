@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65be91d624d5f63369ae6d1e"
+  },
+  "title": "Квадрокоптер DJI Mini 4 Pro (пульт DJI RC 2)",
+  "price": 142500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be91d624d5f63369ae6d2e"
+  },
+  "title": "Квадрокоптер DJI Air 3",
+  "price": 160235,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be91d624d5f63369ae6d3e"
+  },
+  "title": "Квадрокоптер DJI Mini 2 ",
+  "price": 360000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be91d624d5f63369ae6d5e"
+  },
+  "title": "Квадрокоптер DJI Mavic 2",
+  "price": 520000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be91d624d5f63369ae6d6e"
+  },
+  "title": "SwellPro SplashDrone 4",
+  "price": 223000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be91d624d5f63369ae6d7"
+  },
+  "title": "Autel Evo Lite Plus Standard Bundle",
+  "price": 149000,
+  "__v": 0
+}]
